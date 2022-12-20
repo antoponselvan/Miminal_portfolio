@@ -1,37 +1,37 @@
 export default [
    {
       year: 'Today',
-      title: 'YouTube Content Creator',
-      duration: '6 years',
+      title: 'Software Engineer, GA',
+      duration: 'Jun 2022 - Present (PartTime)',
       details: 
-         'My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.',
+         'Re-Kindled my software engineering skills to make a seriou effort to switch career. Completed multiple projects using different Tech-stacks listed above.',
    },
    {
 		year: 'Today',
-		title: 'Solo Indie Developer',
-		duration: '4 years',
+		title: 'Software Engineer, Better.SG',
+		duration: 'Nov 2022 - Present (PartTime)',
 		details:
-			"I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
-	},
-	{
-		year: '2019',
-		title: 'Software Engineer',
-		duration: '2 years',
-		details:
-			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
+			"Design and build an application to match under-previleged tutees with tutors. Primarily responsible for design and implementation of back-end system",
 	},
 	{
 		year: '2018',
-		title: "Bachelor's Degree in Computer Science",
-		duration: '5 years',
+		title: 'Software Engineer (Process Automation Systems)',
+		duration: '4yr',
 		details:
-			'I pursued the knowledge that a computer science degree had to offer. I learned about computer architecture, computer science theory, an array of programming, and aspects of artificial intelligence.',
+			' Maintain and improve existing automation software solutions in the process plant. Given the scale of facility (headcount ~ 500 ), stakeholder/project management, team-work and effective communication is quite a challenge',
 	},
 	{
-		year: '2013',
-		title: 'First Line of Code',
+		year: '2012-18',
+		title: "Hobby Programmer & Chemical Engineer",
+		duration: '',
+		details:
+			'Worked in a refining complex as Process (Control) Engineer. Programmed few products for fun. For eg: Developled Arduino program to decorate home christmas tree with LCD displays and so on. ',
+	},
+	{
+		year: '2003-2012',
+		title: 'High School - Masters',
 		duration: 'the beginning',
 		details:
-			"I wrote my first line of real code that started this journey into digital craftsmanship that I never could've imagined, especially as someone who never saw themselves as anything other than a blue collar worker.",
+			"Started with learning of VB and SQL in 2003! Developed multiple programs for school projects. Some of them include: Student English Test & Marking program, Thermodynamic property visualizer and so on",
 	},
 ]

@@ -4,7 +4,7 @@ export default [
       title: 'Software Engineer, GA',
       duration: 'Jun 2022 - Present (PartTime)',
       details: 
-         'Re-Kindled my software engineering skills to make a seriou effort to switch career. Completed multiple projects using different Tech-stacks listed above.',
+         'Re-Kindled my software engineering skills to make a serious effort to switch career. Completed multiple projects using different Tech-stacks listed above.',
    },
    {
 		year: 'Today',

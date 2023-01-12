@@ -1,20 +1,20 @@
 import React from 'react';
 import timeline from '../data/timeline';
+import certifications from '../data/certifications';
 import TimelineItem from './TimelineItem';
+import CertificationItem from './CertificationItem';
 import Title from './Title';
 
-function Timeline() {
+function Certifications() {
    return (
       <div className="flex flex-col md:flex-row justify-center my-20">
          <div className="w-full md:w-7/12">
-            <Title>Timeline</Title>
-            {timeline.map(item => (
-               <TimelineItem 
+            <Title>Certifications</Title>
+            {certifications.map(item => (
+               <CertificationItem 
                   key={item.title}
-                  year={item.year}
                   title={item.title}
-                  duration={item.duration}
-                  details={item.details}
+                  duration={item.validityPeriod}
                />
             ))}
          </div>
@@ -22,4 +22,4 @@ function Timeline() {
    )
 }
 
-export default Timeline;
+export default Certifications;

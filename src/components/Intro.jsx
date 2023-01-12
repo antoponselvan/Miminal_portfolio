@@ -8,6 +8,7 @@ function Intro() {
          <p className="text-sm max-w-xl mb-6 font-bold">
          Industrial automation software programmer turned full stack developer. Zealous learner of new technologies (evidenced with multiple self-initiated tech projects and certifications). 
             <br />
+            <p className='mt-4'></p>
             Passionate about development of amazing software products with good value propositions. Sharpened critical soft-skills (project management, communication and working with large-diverse teams) by implementing big projects in mega process plants.
             
          </p>
